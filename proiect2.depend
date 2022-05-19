@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650909341 source:c:\users\adi\desktop\code\poo\proiect2\main.cpp
+	<iostream>
+	<string.h>
+
